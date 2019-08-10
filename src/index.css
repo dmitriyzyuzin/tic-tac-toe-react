@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+
+  --colorBackground: #f7f7fa;
+  --colorAccent: #2d48c5;
+  --colorBox: #f2f2f5;
+  --colorBoxBorder: #d3d3d7;
+  --colorText: #fff;
+
+  --baseMargin: 20px;
+
+  background-color: var(--colorBackground);
+}

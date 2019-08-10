@@ -1,0 +1,14 @@
+.board {
+    margin: var(--appMargin);
+    display: flex;
+    flex-direction: column;
+
+}
+
+.board-row {
+    width: 200px;
+    height: 60px;
+
+    display: flex;
+    justify-content: space-around;
+}

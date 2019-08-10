@@ -1,0 +1,10 @@
+.game {
+    margin: var(--baseMargin);
+}
+
+.game-reset {
+    margin-left: 10px;
+    padding: 10px;
+    border: 3px solid #bebebe;
+    border-radius: 4px;
+}
